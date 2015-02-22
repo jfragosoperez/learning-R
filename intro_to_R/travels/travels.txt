@@ -1,0 +1,4 @@
+place		avg_montly_live_cost
+"California"	900
+"Costa brava"	700
+"Thailand"	400
