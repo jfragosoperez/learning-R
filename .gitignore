@@ -3,5 +3,5 @@
 .Rhistory
 .Rproj.user
 .Rproj
-.docx
-.doc
+*.docx
+*.doc
