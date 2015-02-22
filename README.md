@@ -1,0 +1,1 @@
+The R language is widely used among statisticians and data miners for developing statistical software and data analysis. http://en.wikipedia.org/wiki/R_(programming_language)
